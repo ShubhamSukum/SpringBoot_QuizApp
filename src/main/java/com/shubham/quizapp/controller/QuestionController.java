@@ -1,6 +1,6 @@
 package com.shubham.quizapp.controller;
 
-import com.shubham.quizapp.Question;
+import com.shubham.quizapp.model.Question;
 import com.shubham.quizapp.service.QuestionService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
