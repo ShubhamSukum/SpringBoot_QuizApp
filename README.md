@@ -1,10 +1,9 @@
 # Spring Boot Quiz App
 
-## preview link
+## Backend Hosted link
 
-```bash
 https://springboot-quiz-app-monolithic.onrender.com/question/allQuestions
-```
+
 
 ## Overview
 
